@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ceren-tarar
-- 👀 I’m interested in machine learning, image processing, physical modelling, robotics
+- 👀 I’m interested in machine learning, deep learning, and NLP
 - 🌱 I’m currently learning machine learning with Python and MATLAB
 - 📫 How to reach me https://www.linkedin.com/in/ceren-tarar-7b7482157/
 
